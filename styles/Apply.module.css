@@ -1,0 +1,32 @@
+.more__info {
+    margin-top: 50px;
+}
+
+.leftSquare {
+    width: 25px;
+    height: 25px;
+    rotate: 20deg;
+    background-color: #14cfb2;
+}
+.rightSquare {
+    width: 25px;
+    height: 25px;
+    rotate: 20deg;
+    left: -200px;
+    background-color: #c95eff;
+}
+
+.btn__join {
+    font-weight: 400;
+    text-transform: capitalize;
+    background-color: #01317f;
+    color: #ebc2ff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.button__link {
+    text-decoration: none;
+    color: #ebc2ff;
+}

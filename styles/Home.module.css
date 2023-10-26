@@ -1,0 +1,17 @@
+.quote {
+    color: #ffb800;
+}
+.btn__join {
+    font-weight: 400;
+    text-transform: capitalize;
+    background-color: #01317f;
+    color: #ebc2ff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.button__link {
+    text-decoration: none;
+    color: #ebc2ff;
+}
